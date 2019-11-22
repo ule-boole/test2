@@ -1,0 +1,14 @@
+commit 1711274b11efb7ded660d80d5f8f67ee1000ef03 (HEAD -> master, origin/master)
+Author: ule-boole <zhukov.motion@gmail.com>
+Date:   Fri Nov 22 14:11:07 2019 +0300
+
+    Second git
+
+commit 27adde2d135bdab90e482569710d07934028559a
+Author: ule-boole <zhukov.motion@gmail.com>
+Date:   Fri Nov 22 13:54:05 2019 +0300
+
+    First git
+
+
+https://github.com/ule-boole/test2
